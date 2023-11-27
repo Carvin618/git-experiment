@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a4b5bf-e560-4351-ba9d-c297bb59920c" name="Changes" comment="" />
+    <list default="true" id="30a4b5bf-e560-4351-ba9d-c297bb59920c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,20 +31,24 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature-1" />
-                    <option name="lastUsedInstant" value="1700814098" />
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1701066233" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="dev" />
-                    <option name="lastUsedInstant" value="1700814044" />
+                    <option name="branchName" value="fetaure-8" />
+                    <option name="lastUsedInstant" value="1701066158" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1700814002" />
+                    <option name="lastUsedInstant" value="1700816907" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="feature-2" />
-                    <option name="lastUsedInstant" value="1700813809" />
+                    <option name="branchName" value="feature-6" />
+                    <option name="lastUsedInstant" value="1700816729" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature-1" />
+                    <option name="lastUsedInstant" value="1700814098" />
                   </RecentBranch>
                 </list>
               </option>
@@ -65,7 +71,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "git-widget-placeholder": "feature-1",
+    "git-widget-placeholder": "dev",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700811374853</updated>
       <workItem from="1700811393634" duration="2889000" />
+      <workItem from="1701066092799" duration="512000" />
     </task>
     <servers />
   </component>
@@ -96,17 +103,22 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+                  <option value="dev" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
                   <option value="main" />
                 </option>
               </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
-                  <option value="feature-2" />
+                  <option value="origin/main" />
                 </option>
               </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
-                  <option value="dev" />
+                  <option value="feature-2" />
                 </option>
               </RecentGroup>
               <RecentGroup>
